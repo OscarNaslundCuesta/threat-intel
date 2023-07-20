@@ -1,0 +1,6 @@
+*original      microsoft.com     20.112.250.133 2603:1010:3:3::5b NS:ns1-39.azure-dns.com MX:microsoft-com.mail.protection.outlook.com
+addition       microsoft2.com    !ServFail !ServFail NS:!ServFail
+addition       microsoft3.com    103.224.182.246 NS:ns1.abovedomains.com MX:park-mx.above.com
+addition       microsoft6.com    103.224.182.246 NS:ns1.abovedomains.com MX:park-mx.above.com
+etc
+etc
